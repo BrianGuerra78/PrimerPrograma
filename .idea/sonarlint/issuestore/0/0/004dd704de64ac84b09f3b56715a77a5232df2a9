@@ -1,0 +1,15 @@
+
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ûê¼›
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“®¹ï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ìàÊÁıÿÿÿÿ
+=
+java:S1125"'Remove the unnecessary boolean literal.(¨¨–
+N	java:S106"9Replace this use of System.out or System.err by a logger.(†Çøô
+B
+java:S1125"'Remove the unnecessary boolean literal.(Ú”ÎÍÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼Ê¬¼
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïËÎ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±Èçè
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³Á—Ÿ
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ĞËç°ûÿÿÿÿ8í„ĞŠ¿0

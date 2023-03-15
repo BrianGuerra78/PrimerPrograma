@@ -1,0 +1,10 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "c".(Ò•Ÿôúÿÿÿÿ8ç¹Šè¾0
+H
+java:S1481"&Remove this unused "c" local variable.(Ò•Ÿôúÿÿÿÿ8è¹Šè¾0
+q
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8§¸ðÜ¿0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(å£­ìýÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(šøÖ¡þÿÿÿÿ8ê¹Šè¾0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…ãŒ§úÿÿÿÿ8ÄŠè¾0

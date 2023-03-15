@@ -1,0 +1,15 @@
+
+d
+java:S2184"BCast one of the operands of this addition operation to a "double".(¾õƒ¼üÿÿÿÿ8óý¾á¿0
+g
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(Ãˆ¯Äûÿÿÿÿ8óý¾á¿0
+j
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(‹°—õÿÿÿÿÿ8óý¾á¿0
+d
+java:S2184&"BCast one of the operands of this addition operation to a "double".(¾õƒ¼üÿÿÿÿ8óý¾á¿0
+Z
+java:S1854"=Remove this useless assignment to local variable "resultado".(þ‹•º8”þ¾á¿0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æü«Ý
+M	java:S106"9Replace this use of System.out or System.err by a logger.(€§ºY
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(þúËø8Ô¼Âá¿0
+U	java:S106("9Replace this use of System.out or System.err by a logger.(—®»³8²…Áá¿0

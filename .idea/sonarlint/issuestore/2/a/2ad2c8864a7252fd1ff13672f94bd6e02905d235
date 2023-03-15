@@ -1,0 +1,8 @@
+
+i
+java:S1192	"LDefine a constant instead of duplicating this literal "promedio = " 3 times.(Ì¯Ô8ëİÑ¯¿0
+R
+java:S1854"5Remove this useless assignment to local variable "j".(ËÑÔõ8÷İÑ¯¿0
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(Ì¯Ô
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¯Ô8¶Ğ¯¿0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¯Ô8ûİÑ¯¿0

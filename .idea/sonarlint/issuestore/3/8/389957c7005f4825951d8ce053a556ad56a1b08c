@@ -1,0 +1,12 @@
+
+e
+java:S1192"JDefine a constant instead of duplicating this literal "random = " 3 times.(÷ìÎÇøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷ìÎÇøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷ìÎÇøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(±éù¾
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷ìÎÇøÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¸Í¢k
+Q	java:S125"<This block of commented-out lines of code should be removed.(¤‰¬Ó
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ¶ñ†
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ¶ñ†
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûà§¨

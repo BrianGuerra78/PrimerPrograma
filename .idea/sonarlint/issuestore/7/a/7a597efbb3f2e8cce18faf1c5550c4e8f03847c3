@@ -1,0 +1,19 @@
+
+^
+java:S1192
+"HDefine a constant instead of duplicating this literal "os.name" 4 times.(ñÃ× 
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+G
+java:S1874",Remove this use of "exec"; it is deprecated.(¶¿ûÿÿÿÿ
+B
+java:S1874",Remove this use of "exec"; it is deprecated.(ıĞÈã
+B
+java:S1874",Remove this use of "exec"; it is deprecated.(€Ù–”
+B
+java:S1874",Remove this use of "exec"; it is deprecated.(€Ù–”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ş¥óÛûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(şĞåäúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(˜™¢°
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ

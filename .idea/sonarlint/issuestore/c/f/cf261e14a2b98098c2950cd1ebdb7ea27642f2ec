@@ -1,0 +1,30 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "[i = " 3 times.(ñ˜Çá
+^
+java:S1192"HDefine a constant instead of duplicating this literal " , j = " 3 times.(ñ˜Çá
+u
+java:S1192"SDefine a constant instead of duplicating this literal "
+=================" 3 times.(À­Ûÿÿÿÿÿ8³•µ¿0
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Çµí‘
+Q
+java:S1119";Refactor the code to remove this label and the need for it.(ÿş«Š
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(¼î
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àä£‡øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(À­Ûÿÿÿÿÿ
+]
+java:S1119";Refactor the code to remove this label and the need for it.(‡¹Òòùÿÿÿÿ8Ã–µ¿0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ˜Çá
+S	java:S106"9Replace this use of System.out or System.err by a logger.(À­Ûÿÿÿÿÿ
+Q
+java:S1119";Refactor the code to remove this label and the need for it.(ªŠ‡ç
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ø‹µ¿0
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ñ˜Çá8Å–µ¿0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(À­Ûÿÿÿÿÿ8Æ–µ¿0
+V
+java:S1119(";Refactor the code to remove this label and the need for it.(¥å¼°ùÿÿÿÿ
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Æ–µ¿0
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ñ˜Çá8ñ„’µ¿0

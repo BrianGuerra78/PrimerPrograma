@@ -1,0 +1,20 @@
+
+W
+java:S1854"<Remove this useless assignment to local variable "historia".(–şıÿÿÿÿÿ
+Y
+java:S1854"<Remove this useless assignment to local variable "ciencias".(¨ı‡ç8¬ß‰¿0
+a
+java:S1854"?Remove this useless assignment to local variable "matematicas".(Œ™ŠÄúÿÿÿÿ8ìÉŠ¿0
+W
+java:S1854
+"<Remove this useless assignment to local variable "promedio".(”éÖµùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ºõÀÑ
+f
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(œÜƒ¬üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎĞîÃùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¡áŒ$
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÆ âıÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–¼÷ùÿÿÿÿ8¼Ş‡¿0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¯Ô8¼Ş‡¿0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ë”‹8Ìë’¿0
+Q	java:S125"<This block of commented-out lines of code should be removed.(¡½Îğ
